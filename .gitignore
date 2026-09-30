@@ -1,0 +1,21 @@
+# أسرار التوقيع — لا تُرفع أبدًا
+keystore.properties
+*.jks
+*.keystore
+
+# مخرجات البناء
+build/
+.gradle/
+.kotlin/
+local.properties
+*.apk
+*.aab
+
+# بيئة التطوير
+.idea/
+.DS_Store
+
+# ملفات عمل مؤقتة لأصول المتجر
+store/upload/
+store/_*.png
+store/serve.py

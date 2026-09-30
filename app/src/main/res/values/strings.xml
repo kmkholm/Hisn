@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حِصن</string>
+    <string name="daily_channel_name">تذكير يومي</string>
+    <string name="daily_channel_desc">تذكير بجلسة اليوم وتسجيل المتابعة</string>
+    <string name="widget_desc">عدّاد أيامك النظيفة على الشاشة الرئيسية</string>
+    <string name="widget_label">عدّاد حِصن</string>
+</resources>
